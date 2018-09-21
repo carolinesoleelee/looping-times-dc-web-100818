@@ -1,9 +1,9 @@
 def using_times
-	times = 0
+	looping_string = 0
   loop do
-    times += 1
-    puts "Iteration #{times} of the loop"
-  if times >= 7
+    looping_string += 1
+    puts "Iteration #{looping_string} of the loop"
+  if looping_string >= 7
     break
 end
 end
