@@ -1,9 +1,9 @@
 def using_times
-	looping_string = 0
+	Wingardium_Leviosa = 0
   loop do
-    looping_string += 1
-    puts "Iteration #{looping_string} of the loop"
-  if looping_string >= 7
+    lWingardium_Leviosa += 1
+    puts "Iteration #{Wingardium_Leviosa} of the loop"
+  if Wingardium_Leviosa >= 7
     break
 end
 end
