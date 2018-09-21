@@ -1,10 +1,10 @@
 def using_times
-	WingardiumLeviosa = 0
+	times = 0
   loop do
-    Wingardium Leviosa += 1
-    puts "Iteration #{WingardiumLeviosa} of the loop"
-  if WingardiumLeviosa >= 7
+    times += 1
+    puts "Iteration #{times} of the loop"
+  if times >= 7
     break
-  end
- end
+end
+end
 end
